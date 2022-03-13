@@ -8,7 +8,8 @@ This flashcard will have the option to add new flashcard with questions and answ
 ### App Walk-though
 
 
-<img src=https://im4.ezgif.com/tmp/ezgif-4-47b7dbda27.gif width=200><br>
+<img src=https://user-images.githubusercontent.com/64238008/158082344-811de787-8df0-4276-8755-2ff473f7e298.gif width=200><br>
+![Hnet-image](https://user-images.githubusercontent.com/64238008/158082344-811de787-8df0-4276-8755-2ff473f7e298.gif)
 
 
 
