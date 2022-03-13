@@ -9,7 +9,7 @@ This flashcard will have the option to add new flashcard with questions and answ
 
 
 <img src=https://user-images.githubusercontent.com/64238008/158082344-811de787-8df0-4276-8755-2ff473f7e298.gif width=200><br>
-![Hnet-image](https://user-images.githubusercontent.com/64238008/158082344-811de787-8df0-4276-8755-2ff473f7e298.gif)
+
 
 
 
