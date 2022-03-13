@@ -13,6 +13,7 @@
 		6C97E5BF27DE9FC200937887 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C97E5BD27DE9FC200937887 /* Main.storyboard */; };
 		6C97E5C127DE9FC400937887 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C97E5C027DE9FC400937887 /* Assets.xcassets */; };
 		6C97E5C427DE9FC400937887 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C97E5C227DE9FC400937887 /* LaunchScreen.storyboard */; };
+		6C97E5CC27DEA54700937887 /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C97E5CB27DEA54700937887 /* CreationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6C97E5C027DE9FC400937887 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6C97E5C327DE9FC400937887 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6C97E5C527DE9FC400937887 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6C97E5CB27DEA54700937887 /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		6C97E5AB27DE9FC200937887 = {
 			isa = PBXGroup;
 			children = (
+				6C97E5CB27DEA54700937887 /* CreationViewController.swift */,
 				6C97E5B627DE9FC200937887 /* Flashcard */,
 				6C97E5B527DE9FC200937887 /* Products */,
 			);
@@ -141,6 +144,7 @@
 				6C97E5BC27DE9FC200937887 /* ViewController.swift in Sources */,
 				6C97E5B827DE9FC200937887 /* AppDelegate.swift in Sources */,
 				6C97E5BA27DE9FC200937887 /* SceneDelegate.swift in Sources */,
+				6C97E5CC27DEA54700937887 /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
