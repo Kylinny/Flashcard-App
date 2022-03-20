@@ -10,6 +10,8 @@ This flashcard will have the option to add new flashcard with questions and answ
 
 <img src=https://user-images.githubusercontent.com/64238008/158082344-811de787-8df0-4276-8755-2ff473f7e298.gif width=200><br>
 
+<img src=https://user-images.githubusercontent.com/64238008/159142916-9e8e1cb6-a171-4b6e-8d6b-206e6666dd3e.gif width=200><br>
+
 
 
 
