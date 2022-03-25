@@ -8,8 +8,6 @@ Now, users could add more than one flashcards and switch to different flashcards
 
 <img src="https://user-images.githubusercontent.com/64238008/160052859-4bcc37f3-15c6-4a7b-a394-823b55f4314f.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 ## Required
 - [x] User can browse through multiple flashcards
 - [x] User can re-open the app and see previously created flashcards
