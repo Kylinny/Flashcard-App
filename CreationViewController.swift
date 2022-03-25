@@ -14,6 +14,8 @@ class CreationViewController: UIViewController {
     @IBOutlet weak var Question: UITextField!
     @IBOutlet weak var Answer: UITextField!
     
+  
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
