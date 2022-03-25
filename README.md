@@ -1,5 +1,23 @@
 ## Flashcard-App
+## Lab 3
 
+### App Description
+Now, users could add more than one flashcards and switch to different flashcards. Flashcards created will be stored and not lost.
+
+### App Walk-though
+
+<img src="https://user-images.githubusercontent.com/64238008/160052859-4bcc37f3-15c6-4a7b-a394-823b55f4314f.gif" width=200><br>
+
+`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+
+## Required
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
+- [x] Push code to GitHub
+## Optional
+- [ ] User can delete a flashcard
+- [ ] User can edit existing flashcard
+- [ ] User can store multiple choice questions
 ## Lab 2
 
 ### App Description
