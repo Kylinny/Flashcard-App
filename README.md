@@ -1,4 +1,5 @@
 ## Flashcard-App
+[Junyi Yao.pdf](https://github.com/Kylinny/Flashcard-App/files/8500105/Junyi.Yao.pdf)
 ## Lab 4
 
 ### App Description
